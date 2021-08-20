@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo-hyun-Kim&count_bg=%23FFDCA7&title_bg=%23DDDDDD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jenny&show_icons=true&theme=material-palenight&bg_color=ff6262&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/Do-hyun-Kim/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Do-hyun-Kim&show_icons=true&theme=material-palenight&bg_color=ff6262&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/Do-hyun-Kim/github-readme-stats)
 </div>
   
   </div>
