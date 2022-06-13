@@ -1,4 +1,3 @@
-Jeeny/ README.md
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jenny&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
 <!--
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@dohyun8032" target="_blank">
     <img src="https://img.shields.io/badge/Dev%20Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
   <a href="mailto:dohyun8032@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Jeeny Mail%20-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dohyun8032@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/Jenny Mail%20-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dohyun8032@gmail.com"/></a>
   <a href="https://github.com/Do-hyun-Kim" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
 </div>
