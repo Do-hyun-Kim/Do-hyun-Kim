@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ### ⛏  Skills
 <img src="https://img.shields.io/badge/Xcode%20-6cd6e8?style=flat-square&logo=Xcode&logoColor=black"/> <img src="https://img.shields.io/badge/Swift%20-E9967A?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/cocoaPods%20-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-20B2AA?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-20B2AA?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo-hyun-Kim&count_bg=%233FAEA5&title_bg=%23646060&icon=&icon_color=%23F38282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
