@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-hyun-Kim&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-hyun-Kim&show_icons=true&theme=radical)
+    
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyun8032)](https://solved.ac/dohyun8032/)
   
   <a href="https://velog.io/@dohyun8032" target="_blank">
     <img src="https://img.shields.io/badge/Dev%20Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
