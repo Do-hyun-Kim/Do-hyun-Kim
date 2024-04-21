@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-hyun-Kim&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo-hyun-Kim&count_bg=%233FAEA5&title_bg=%23646060&icon=&icon_color=%23F38282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Do-hyun-Kim?pet-id=1" width="1000" height="120"/>
+</a>
