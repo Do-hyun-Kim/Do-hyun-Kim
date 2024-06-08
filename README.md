@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jenny&fontSize=90&fontColor=ffffff&fontAlignY=40)
+![header](https://github.com/Do-hyun-Kim/Do-hyun-Kim/assets/23008224/b4b20889-2b14-430c-9182-d6f42858e8a4)
 
 <!--
 **Do-hyun-Kim/Do-hyun-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
