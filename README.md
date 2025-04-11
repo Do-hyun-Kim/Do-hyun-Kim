@@ -18,22 +18,16 @@ Here are some ideas to get you started:
 ## Skills
 
 - **Platform**  
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white">　
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logoColor=white">　
   
 - **Languages**  
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-2379F4?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white">
 
 - **Third party Library**  
-<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"> <img src="https://img.shields.io/badge/ReactorKit-3089CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/RxDataSources-E10098?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/ReactorKit-3089CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/RxDataSources-E10098?style=for-the-badge&logoColor=white">
 
 - **Tools**  
      <img src="https://img.shields.io/badge/Tuist-026CDF?style=for-the-badge&logoColor=white">
-
-     
-- **Etc**  
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <a href="https://velog.io/@dohyun8032" target="_blank"> <img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/> <a href="mailto:dohyun8032@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Jenny Mail%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dohyun8032@gmail.com"/></a>
-<hr/>
   
 
 
