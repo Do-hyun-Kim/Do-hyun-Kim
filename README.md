@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <a href="https://velog.io/@dohyun8032" target="_blank"> <img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/> <a href="mailto:dohyun8032@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Jenny Mail%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dohyun8032@gmail.com"/></a>
 <hr/>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-hyun-Kim&show_icons=true&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDo-hyun-Kim&count_bg=%233FAEA5&title_bg=%23646060&icon=&icon_color=%23F38282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 
 
 <a href="https://github.com/devxb/gitanimals">
