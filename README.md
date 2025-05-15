@@ -28,9 +28,12 @@ Here are some ideas to get you started:
 
 - **Tools**  
      <img src="https://img.shields.io/badge/Tuist-026CDF?style=for-the-badge&logoColor=white">
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyun8032)](https://solved.ac/dohyun8032/)
 
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Do-hyun-Kim?pet-id=1" width="1000" height="120"/>
 </a>
+
+
